@@ -1,4 +1,5 @@
 name = input("What's your name? ")
+<<<<<<< HEAD
 age = int(input("What's your age? "))
 
 print("Hello " + name + "!")
@@ -10,3 +11,8 @@ elif age < 13:
     print("You are a child")
 else:
     print("You are an adult")
+=======
+town = input("Where do you live?")
+
+print("Hello "+ name + "from" + town+ "!")
+>>>>>>> location
